@@ -2,8 +2,10 @@
 ### Basic personal information
 **School**
 University of California San Diego
+
 **Year**
 Junior
+
 **Hobbies**
 - Reading
 - listening to music
@@ -16,7 +18,7 @@ Junior
   2. Japan
   3. Switzerland
 - Animation & Comics
-![Shonen Jump](https://images.app.goo.gl/7P77zKHKfybacbk27)
+![Anime](https://octodex.github.com/images/minion.png)
 
 ### Basic information as a programmer
 **Languages**
@@ -25,6 +27,7 @@ Junior
 - [ ] JavaScript
 - [x] C++
 - [x] C
+
 **My First line of code**
 ```
 System.out.println("Hello, World!");
