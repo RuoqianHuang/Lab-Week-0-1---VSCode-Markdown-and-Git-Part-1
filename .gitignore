@@ -1,1 +1,2 @@
-PRIVATE.txt
+# Ignore PRIVATE.txt
+*.txt
